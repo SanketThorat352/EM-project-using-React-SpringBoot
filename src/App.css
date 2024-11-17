@@ -1,0 +1,7 @@
+body{
+  background-image: url('./images//Employee.png');
+  background-size: cover;
+  background-position: center;
+  color:green ;
+  height: 100vh;
+}
