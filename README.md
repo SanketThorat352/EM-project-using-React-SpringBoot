@@ -9,21 +9,28 @@ Backend: RESTful API built with Spring Boot.
 Database Integration: Seamless CRUD operations with a relational database.
 Full-Stack Deployment: Integrated application packaged and ready for deployment.
 Scalability: Modular architecture for future enhancements.
+
+
 🚀 Technologies Used
 Frontend
 ReactJS
 HTML5, CSS3, JavaScript
 Axios for HTTP requests
+
+
 Backend
 Spring Boot
 Java
 Spring Data JPA
+
 Database
 MySQL (or any other relational database)
 Tools
 Maven
 npm/yarn
 IntelliJ IDEA/VS Code
+
+
 📦 Project Structure
 Frontend
 css
@@ -34,6 +41,8 @@ src/
   ├── styles/
   ├── App.js
   └── index.js
+
+  
 Backend
 css
 Copy code
@@ -43,15 +52,18 @@ src/main/java/com/example/
   ├── model/
   ├── repository/
   └── Application.java
+  
 ⚙️ Setup & Installation
 Prerequisites
 Node.js and npm (for React).
 JDK 8 or higher (for Spring Boot).
 MySQL or other supported databases.
 Steps
+
 Backend Setup
 Clone the repository:
 bash
+
 Copy code
 git clone https://github.com/SanketThorat352/EM-project-using-React-SpringBoot.git
 Navigate to the backend directory:
@@ -63,6 +75,7 @@ Build and run the application:
 bash
 Copy code
 mvn spring-boot:run
+
 Frontend Setup
 Navigate to the frontend directory:
 bash
