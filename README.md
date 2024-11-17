@@ -113,5 +113,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Author: Sanket Thorat
 
 📧 Email: sanketthorat352@gmail.com
+
 💼 LinkedIn: Sanket Thorat
+
 Feel free to raise issues or suggest improvements! 😊
